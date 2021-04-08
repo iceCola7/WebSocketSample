@@ -1,2 +1,3 @@
+include ':lib_websocket'
 include ':app'
 rootProject.name = "WebSocketSample"
